@@ -54,7 +54,7 @@
     <img align="center" alt="AWS Educate Introduction to Cloud 101" height="110" width="auto" src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png">
   </a>
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=80FCD3BFF4D79D34CAF14427A981FA2FC3DD0CC01A26F19F533986D005ACC6FC" target="_blank">
-    <img align="center" alt="View Requirements Oracle Cloud Infrastructure" height="100" width="auto" src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png">
+    <img align="center" alt="View Requirements Oracle Cloud Infrastructure" height="100" width="auto" src="https://images.credly.com/images/27db49f3-8bae-4314-8a84-884935b569db/50_Oracle_Cloud_Infrastructure.png">
   </a>
 </div>
 
