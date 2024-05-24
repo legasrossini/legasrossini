@@ -42,4 +42,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GIF_TOKEN }}
-          GH_PAT: ${{ secrets.GH_PAT }}
+          ACCESS_TOKEN: ${{ secrets.GIF_TOKEN }}
