@@ -10,7 +10,7 @@
 ##
   
 <div align="center">
-  <h4>📈 Status 📉</h4>
+  <h3>📈 Status 📉</h3>
   <a href="https://github.com/legasrossini">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=legasrossini&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=contribs"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legasrossini&layout=compact&langs_count=7&theme=react"/>
@@ -19,7 +19,7 @@
 ##
 
 <div align="center">
-  <h4>⚒️ Linguagens, frameworks e ferramentas ⚒️</h4> 
+  <h3>⚒️ Linguagens, frameworks e ferramentas ⚒️</h3> 
   <div style="display: inline_block">
     <img align="center" alt="Java" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">&nbsp;
     <img align="center" alt="Maven" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg">&nbsp;
@@ -47,7 +47,7 @@
 ##
 
 <div align="center"> 
-  <h4>🎖 Certificações e Badges 🎖</h4> 
+  <h3>🎖 Certificações e Badges 🎖</h3> 
   <a href="https://www.credly.com/badges/a3230d84-3d6e-4a19-b997-4381a4e87d36/linked_in?t=s138rx" target="_blank">
     <img align="center" alt="AWS Cloud Pratictioner" height="110" width="auto" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
   </a>
@@ -71,8 +71,9 @@
   </a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<div align="center">
+  <h3>🐍 My Contributions 🐍</h3>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />  
+  <br/><br/><br/>
+</div>
