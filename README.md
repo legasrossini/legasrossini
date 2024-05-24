@@ -2,7 +2,7 @@
   <p>
     <img src=https://github.com/legasrossini/legasrossini/assets/27970331/6c542ca5-b294-48c1-a146-206113b8fe51 alt="quemSou">
   </p>
-  Engenheiro de Software, 29 anos e casado. Formado em ciência da computação e cursando arquitetura de software na faculdade FIAP.
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&weight=900&center=true&vCenter=true&width=500&height=70&duration=6000&color=F7F7F7&lines=Engenheiro+de+Sofware,+29+anos+e+casado!;Formado+em+Ciência+da+Computação;Cursando+Arquitetura+de+Software+na+faculdade+FIAP." />
 </div>
 
 ##
