@@ -40,3 +40,13 @@
   </div>
 </div>
 
+##
+
+<div> 
+  <h3>Certificações & Badges:</h3> 
+  <a href="https://www.credly.com/badges/b1bb3359-9c89-45cf-981b-74f8d0821c45/public_url" target="_blank">
+    <img align="center" alt="AWS Cloud Praticioner" height="100" width="100" src="https://github.com/gisiona/gisiona/blob/main/img/aws-certified-cloud-practitioner.png"> &nbsp;
+  </a>
+</div>
+
+
