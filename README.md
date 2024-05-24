@@ -44,6 +44,9 @@
 
 <div align="center"> 
   <h4>Certificações e Badges</h4> 
+  <a href="https://www.credly.com/badges/a3230d84-3d6e-4a19-b997-4381a4e87d36/linked_in?t=s138rx" target="_blank">
+    <img align="center" alt="AWS Cloud Pratictioner" height="110" width="auto" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
+  </a>
   <a href="https://www.credly.com/badges/aa04e3a6-661a-4236-bfcd-c52e23dffdd7/public_url" target="_blank">
     <img align="center" alt="AWS Educate Getting Started" height="110" width="auto" src="https://images.credly.com/size/340x340/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png">
   </a>
@@ -56,6 +59,13 @@
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=80FCD3BFF4D79D34CAF14427A981FA2FC3DD0CC01A26F19F533986D005ACC6FC" target="_blank">
     <img align="center" alt="View Requirements Oracle Cloud Infrastructure" height="100" width="auto" src="https://images.credly.com/images/27db49f3-8bae-4314-8a84-884935b569db/50_Oracle_Cloud_Infrastructure.png">
   </a>
+  <a href="http://badges.com.br/share/5b6d748eb16b66a02a1dd996ddca46cf.php?a=3710" target="_blank">
+    <img align="center" alt="Associate - Data Modelling" height="120" width="auto" src="https://github.com/legasrossini/legasrossini/assets/27970331/0fca9fb2-94cf-4464-941a-a876926dc420">
+  </a>
+  <a href="http://badges.com.br/share/687375202c391b620d0a40173aff50d5.php?a=3694" target="_blank">
+    <img align="center" alt="Practitioner - D&A Foundation" height="120" width="auto" src="https://github.com/legasrossini/legasrossini/assets/27970331/20413ca9-4d7f-4992-aecd-ed2a16ffe07c">
+  </a>
 </div>
+
 
 
