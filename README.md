@@ -36,6 +36,5 @@
   <img align="center" alt="Oracle" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">&nbsp;
   <img align="center" alt="IntelliJ" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">&nbsp;
   <img align="center" alt="VSCode" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">&nbsp;
-  <img align="center" alt="Insomnia" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg">&nbsp;
 </div>
 
