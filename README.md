@@ -8,6 +8,7 @@
 </div>
 
 ##
+<br/>
   
 <div align="center">
   <h3>📈 Status 📉</h3>
@@ -17,6 +18,7 @@
 </div>
     
 ##
+<br/>
 
 <div align="center">
   <h3>⚒️ Linguagens, frameworks e ferramentas ⚒️</h3> 
@@ -45,6 +47,7 @@
 </div>
 
 ##
+<br/>
 
 <div align="center"> 
   <h3>🎖 Certificações e Badges 🎖</h3> 
@@ -71,9 +74,12 @@
   </a>
 </div>
 
+##
+<br/>
+
 <div align="center">
-  <h3>🐍 My Contributions 🐍</h3>
+  <h3>🐍 Minhas contribuições 🐍</h3>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />  
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/legasrossini/legasrossini/output/github-contribution-grid-snake.svg" />  
   <br/><br/><br/>
 </div>
