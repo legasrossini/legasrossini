@@ -42,10 +42,19 @@
 
 ##
 
-<div> 
-  <h3>Certificações & Badges:</h3> 
-  <a href="https://www.credly.com/badges/b1bb3359-9c89-45cf-981b-74f8d0821c45/public_url" target="_blank">
-    <img align="center" alt="AWS Cloud Praticioner" height="100" width="100" src="https://github.com/gisiona/gisiona/blob/main/img/aws-certified-cloud-practitioner.png"> &nbsp;
+<div align="center"> 
+  <h4>Certificações e Badges</h4> 
+  <a href="https://www.credly.com/badges/aa04e3a6-661a-4236-bfcd-c52e23dffdd7/public_url" target="_blank">
+    <img align="center" alt="AWS Educate Getting Started" height="110" width="auto" src="https://images.credly.com/size/340x340/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png">
+  </a>
+  <a href="https://www.credly.com/badges/8fa789a6-b6df-438e-ab3f-7ca723c05ac8/public_url" target="_blank">
+    <img align="center" alt="AWS Educate Getting Started with Databases" height="110" width="auto" src="https://images.credly.com/size/340x340/images/6f135924-7645-4bd2-ab68-3bc0b49c7e27/image.png">
+  </a>
+  <a href="https://www.credly.com/badges/42bb0313-a86c-4503-8264-c87f24e31331/public_url" target="_blank">
+    <img align="center" alt="AWS Educate Introduction to Cloud 101" height="110" width="auto" src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png">
+  </a>
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=80FCD3BFF4D79D34CAF14427A981FA2FC3DD0CC01A26F19F533986D005ACC6FC" target="_blank">
+    <img align="center" alt="View Requirements Oracle Cloud Infrastructure" height="100" width="auto" src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png">
   </a>
 </div>
 
