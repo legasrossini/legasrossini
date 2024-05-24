@@ -26,6 +26,8 @@
     <img align="center" alt="OpenApi" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-plain.svg">&nbsp;
     <img align="center" alt="Cucumber" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg">&nbsp;
     <img align="center" alt="JUnit" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg">&nbsp;
+  </div>
+  <div style="display: inline_block">
     <img align="center" alt="PyTest" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg">&nbsp;
     <img align="center" alt="Docker" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg">&nbsp;
     <img align="center" alt="Git" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg">&nbsp;  
@@ -67,5 +69,8 @@
   </a>
 </div>
 
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
