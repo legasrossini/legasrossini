@@ -10,7 +10,7 @@
 <div align="center">
   <h3>🚀 About Me</h3>
   <div>
-    <span>🎓 Software Engineer at Itaú Unibanco</span><br>
+    <span>🖥️ Software Engineer at Itaú Unibanco</span><br>
     <span>☁ Cloud & Backend Developer | Java & AWS</span><br>
     <span>🔍 Passionate about Scalable, Resilient, and High-Performance Architectures</span><br>
     <span>📚 Always learning new technologies and best practices</span>
