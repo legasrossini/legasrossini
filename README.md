@@ -1,56 +1,49 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=legasrossini.legasrossini" />
-
-<div align="center">  
-  <p>
-    <img src=https://github.com/legasrossini/legasrossini/assets/27970331/6c542ca5-b294-48c1-a146-206113b8fe51 alt="quemSou">
-  </p>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&weight=900&center=true&vCenter=true&width=500&height=70&duration=6000&color=F7F7F7&lines=Engenheiro+de+Sofware,+29+anos+e+casado!;Graduado+em+Ciência+da+Computação;Cursando+Arquitetura+de+Software!"/>
-</div>
-
-##
-<br/>
-  
-<div align="center">
-  <h3>📈 Status 📉</h3>
-  <a href="https://github.com/legasrossini">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=legasrossini&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=contribs"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legasrossini&layout=compact&langs_count=7&theme=react"/>
-</div>
-    
-##
-<br/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=legasrossini.legasrossini"/>
 
 <div align="center">
-  <h3>⚒️ Linguagens, frameworks e ferramentas ⚒️</h3> 
+  <h3>👋 Hey, I'm Douglas</h3>
+  <p>Software Engineer | AWS | System Architecture</p>
+</div>
+
+#
+
+<div align="center">
+  <h3>🚀 About Me</h3>
+  <div>
+    <span>🎓 Software Engineer at Itaú Unibanco</span><br>
+    <span>☁ Cloud & Backend Developer | Java & AWS</span><br>
+    <span>🔍 Passionate about Scalable, Resilient, and High-Performance Architectures</span><br>
+    <span>📚 Always learning new technologies and best practices</span>
+  </div>
+</div>
+
+
+
+#
+
+<div align="center">
+  <h3>⚙️ Tech Stack</h3> 
   <div style="display: inline_block">
+    <img align="center" alt="AmazonWS" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">&nbsp;
+   <img align="center" alt="Docker" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg">&nbsp;
     <img align="center" alt="Java" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">&nbsp;
     <img align="center" alt="Maven" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg">&nbsp;
     <img align="center" alt="SpringBoot" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">&nbsp;
-    <img align="center" alt="Swagger" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg">&nbsp;
-    <img align="center" alt="OpenApi" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-plain.svg">&nbsp;
-    <img align="center" alt="Cucumber" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg">&nbsp;
-    <img align="center" alt="JUnit" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg">&nbsp;
-  </div>
-  <div style="display: inline_block">
-    <img align="center" alt="PyTest" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg">&nbsp;
-    <img align="center" alt="Docker" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg">&nbsp;
+    <img align="center" alt="Python" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">&nbsp;
     <img align="center" alt="Git" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg">&nbsp;  
     <img align="center" alt="GitHub" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">&nbsp;
     <img align="center" alt="GitHubActions" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg">&nbsp;  
-    <img align="center" alt="AmazonWS" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">&nbsp;
+    <img align="center" alt="Terraform" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg">&nbsp; 
     <img align="center" alt="MySql" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">&nbsp;
     <img align="center" alt="MicrosoftSqlServer" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">&nbsp;
-    <img align="center" alt="Oracle" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">&nbsp;
-    <img align="center" alt="IntelliJ" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">&nbsp;
-    <img align="center" alt="VSCode" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">&nbsp;
+    <img align="center" alt="DynamoDB" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg">&nbsp;
   </div>
 </div>
 
-##
-<br/>
+#
 
 <div align="center"> 
-  <h3>🎖 Certificações e Badges 🎖</h3> 
+  <h3>🎖 Certifications & Badges</h3> 
   <a href="https://www.credly.com/badges/a3230d84-3d6e-4a19-b997-4381a4e87d36/linked_in?t=s138rx" target="_blank">
     <img align="center" alt="AWS Cloud Pratictioner" height="110" width="auto" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
   </a>
@@ -74,12 +67,44 @@
   </a>
 </div>
 
-##
-<br/>
+#
 
 <div align="center">
-  <h3>🐍 Minhas contribuições 🐍</h3>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/legasrossini/legasrossini/output/github-contribution-grid-snake.svg" />  
-  <br/><br/><br/>
+  <h3>📊 GitHub Stats</h3>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+    <img width="33%" height="180" src="https://github-readme-stats.vercel.app/api?username=legasrossini&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&hide_rank=true" />
+    <img width="33%" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=legasrossini&theme=github_dark_dimmed" />
+    <img width="28%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legasrossini&layout=compact&langs_count=8&theme=github_dark_dimmed" />
+  </div>
 </div>
+
+#
+
+<div align="center">
+  <h3>📫 Let's Connect</h3>
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://www.linkedin.com/in/legasrossini/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/legasrossini" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+        </a>
+      </td>
+      <td>
+        <a href="mailto:dlegasr@gmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://wa.me/5511980171388" target="_blank">
+          <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
