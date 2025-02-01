@@ -6,6 +6,11 @@
   <img src="https://img.shields.io/badge/Working%20at-Itaú%20Unibanco-000000?style=for-the-badge&logo=itau&logoColor=orange"/>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</div>
+
+
 #
 
 <div align="center">
@@ -21,7 +26,7 @@
 #
 
 <div align="center">
-  <h3>⚙️ Tech Stack</h3> 
+  <h3>🛠️ Tech Stack</h3> 
   <p>
     <img height="28" src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white"/>
     <img height="28" src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -65,7 +70,7 @@
 #
 
 <div align="center">
-  <h3>📫 Let's Connect</h3>
+  <h3>🌍 Let's Connect</h3>
   <div>
     <a href="https://github.com/legasrossini" target="_blank"><img height="30" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/legasrossini/" target="_blank"><img height="30" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
