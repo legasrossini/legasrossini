@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=legasrossini.legasrossini"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=legasrossini.legasrossini&color=000000&style=for-the-badge"/>
 
 <div align="center">
   <h3>👋 Hey, I'm Douglas</h3>
@@ -7,8 +7,9 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+  <img src="[https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif](https://media2.giphy.com/media/eguY9avVyt3hGzsJVj/giphy.gif?cid=6c09b952w9ve7d3poosqucu1cwbbs1lpizckscci2y7jaqcz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)" width="400"/>
 </div>
+
 
 
 #
