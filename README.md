@@ -81,29 +81,10 @@
 
 <div align="center">
   <h3>📫 Let's Connect</h3>
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://www.linkedin.com/in/legasrossini/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/legasrossini" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
-        </a>
-      </td>
-      <td>
-        <a href="mailto:dlegasr@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://wa.me/5511980171388" target="_blank">
-          <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <div>
+    <a href="https://www.linkedin.com/in/legasrossini/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>‎ ‎ ‎
+    <a href="https://github.com/legasrossini" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>‎ ‎ ‎
+    <a href="mailto:dlegasr@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>‎ ‎ ‎
+    <a href="https://wa.me/5511980171388" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  </div>
 </div>
-
