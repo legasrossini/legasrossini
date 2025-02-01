@@ -71,5 +71,3 @@
     <a href="https://wa.me/5511980171388" target="_blank"><img height="30" src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   </div>
 </div>
-
-
