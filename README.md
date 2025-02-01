@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>👋 Hey, I'm Douglas</h3>
-  <p>Software Engineer | AWS | System Architecture</p>
+  <img src="https://img.shields.io/badge/Software%20Engineer-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
 </div>
 
 #
@@ -23,22 +23,23 @@
 
 <div align="center">
   <h3>⚙️ Tech Stack</h3> 
-  <div style="display: inline_block">
-    <img align="center" alt="AmazonWS" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">&nbsp;
-   <img align="center" alt="Docker" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg">&nbsp;
-    <img align="center" alt="Java" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">&nbsp;
-    <img align="center" alt="Maven" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg">&nbsp;
-    <img align="center" alt="SpringBoot" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">&nbsp;
-    <img align="center" alt="Python" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">&nbsp;
-    <img align="center" alt="Git" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg">&nbsp;  
-    <img align="center" alt="GitHub" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">&nbsp;
-    <img align="center" alt="GitHubActions" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg">&nbsp;  
-    <img align="center" alt="Terraform" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg">&nbsp; 
-    <img align="center" alt="MySql" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">&nbsp;
-    <img align="center" alt="MicrosoftSqlServer" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">&nbsp;
-    <img align="center" alt="DynamoDB" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg">&nbsp;
-  </div>
+  <p>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+    <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+  </p>
 </div>
+
 
 #
 
