@@ -2,7 +2,8 @@
 
 <div align="center">
   <h3>👋 Hey, I'm Douglas</h3>
-  <img src="https://img.shields.io/badge/Software%20Engineer-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Engineer-000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Working%20at-Itaú%20Unibanco-000000?style=for-the-badge&logo=itau&logoColor=orange"/>
 </div>
 
 #
@@ -10,10 +11,10 @@
 <div align="center">
   <h3>🚀 About Me</h3>
   <div>
-    <span>🖥️ Software Engineer at Itaú Unibanco</span><br>
-    <span>☁ Cloud & Backend Developer | Java & AWS</span><br>
-    <span>🔍 Passionate about Scalable, Resilient, and High-Performance Architectures</span><br>
-    <span>📚 Always learning new technologies and best practices</span>
+    <span>⬛ Software Engineer at Itaú Unibanco</span><br>
+    <span>⬛ Cloud & Backend Developer | Java & AWS</span><br>
+    <span>⬛ Passionate about Scalable, Resilient, and High-Performance Architectures</span><br>
+    <span>⬛ Always learning new technologies and best practices</span>
   </div>
 </div>
 
@@ -22,22 +23,21 @@
 <div align="center">
   <h3>⚙️ Tech Stack</h3> 
   <p>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-    <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+    <img height="28" src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    <img height="28" src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img height="28" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img height="28" src="https://img.shields.io/badge/Maven-000000?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+    <img height="28" src="https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=springboot&logoColor=white"/>
+    <img height="28" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+    <img height="28" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+    <img height="28" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img height="28" src="https://img.shields.io/badge/GitHubActions-000000?style=for-the-badge&logo=githubactions&logoColor=white"/>
+    <img height="28" src="https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=white"/>
+    <img height="28" src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img height="28" src="https://img.shields.io/badge/MicrosoftSQLServer-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+    <img height="28" src="https://img.shields.io/badge/DynamoDB-000000?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
   </p>
 </div>
-
 
 #
 
@@ -56,11 +56,10 @@
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-    <img width="33%" height="180" src="https://github-readme-stats.vercel.app/api?username=legasrossini&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&hide_rank=true" />
-    <img width="33%" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=legasrossini&theme=github_dark_dimmed" />
-    <img width="28%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legasrossini&layout=compact&langs_count=8&theme=github_dark_dimmed" />
-  </div>
+  <p>
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=legasrossini&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true"/>
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=legasrossini&theme=dark"/>
+  </p>
 </div>
 
 #
@@ -68,9 +67,11 @@
 <div align="center">
   <h3>📫 Let's Connect</h3>
   <div>
-    <a href="https://github.com/legasrossini" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>‎
-    <a href="https://www.linkedin.com/in/legasrossini/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>‎
-    <a href="mailto:dlegasr@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>‎
-    <a href="https://wa.me/5511980171388" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+    <a href="https://github.com/legasrossini" target="_blank"><img height="30" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/legasrossini/" target="_blank"><img height="30" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:dlegasr@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://wa.me/5511980171388" target="_blank"><img height="30" src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   </div>
 </div>
+
+
