@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=legasrossini.legasrossini&color=000000&style=for-the-badge"/>
+<img align="right" src="https://img.shields.io/badge/Visitors-000000?style=for-the-badge&logo=github&logoColor=white"/>
 
 <div align="center">
   <h3>👋 Hey, I'm Douglas</h3>
